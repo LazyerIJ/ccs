@@ -1,0 +1,5 @@
+{
+  "name": "ccs",
+  "version": "0.1.0",
+  "description": "열린 Claude Code 세션을 git 처럼: 꺼도 되는지 판정(status), 저장(stash), 재부팅 뒤 다시 열기(pop)"
+}
